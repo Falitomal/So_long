@@ -14,7 +14,7 @@
 </p>
 # so_long
 
-![so long 42_preview](/so_long_preview.png)
+![so long 42_preview](/readme/so_long_preview.png)
 
 This is a small game project from 42school implemented using MLX42 ( a version customized of MiniLibX).
 
